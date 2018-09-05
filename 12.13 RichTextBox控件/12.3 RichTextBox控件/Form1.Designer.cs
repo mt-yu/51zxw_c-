@@ -41,6 +41,7 @@
             // 
             // richTextBox1
             // 
+            this.richTextBox1.ForeColor = System.Drawing.SystemColors.ControlDark;
             this.richTextBox1.Location = new System.Drawing.Point(12, 58);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.Size = new System.Drawing.Size(424, 318);
@@ -75,7 +76,7 @@
             this.bluebtn.TabIndex = 2;
             this.bluebtn.Text = "蓝色";
             this.bluebtn.UseVisualStyleBackColor = true;
-            this.bluebtn.Click += new System.EventHandler(this.button1_Click);
+            this.bluebtn.Click += new System.EventHandler(this.bluebtn_Click);
             // 
             // redbtn
             // 
@@ -85,7 +86,7 @@
             this.redbtn.TabIndex = 2;
             this.redbtn.Text = "红色";
             this.redbtn.UseVisualStyleBackColor = true;
-            this.redbtn.Click += new System.EventHandler(this.button1_Click);
+            this.redbtn.Click += new System.EventHandler(this.redbtn_Click);
             // 
             // ls18btn
             // 
@@ -95,7 +96,7 @@
             this.ls18btn.TabIndex = 2;
             this.ls18btn.Text = "隶书 18";
             this.ls18btn.UseVisualStyleBackColor = true;
-            this.ls18btn.Click += new System.EventHandler(this.button1_Click);
+            this.ls18btn.Click += new System.EventHandler(this.ls18btn_Click);
             // 
             // itembtn
             // 
@@ -105,7 +106,7 @@
             this.itembtn.TabIndex = 2;
             this.itembtn.Text = "项目符号";
             this.itembtn.UseVisualStyleBackColor = true;
-            this.itembtn.Click += new System.EventHandler(this.button1_Click);
+            this.itembtn.Click += new System.EventHandler(this.itembtn_Click);
             // 
             // diwenbtn
             // 
@@ -115,7 +116,7 @@
             this.diwenbtn.TabIndex = 2;
             this.diwenbtn.Text = "底纹";
             this.diwenbtn.UseVisualStyleBackColor = true;
-            this.diwenbtn.Click += new System.EventHandler(this.button1_Click);
+            this.diwenbtn.Click += new System.EventHandler(this.diwenbtn_Click);
             // 
             // restbtn
             // 
@@ -125,7 +126,7 @@
             this.restbtn.TabIndex = 2;
             this.restbtn.Text = "复原";
             this.restbtn.UseVisualStyleBackColor = true;
-            this.restbtn.Click += new System.EventHandler(this.button1_Click);
+            this.restbtn.Click += new System.EventHandler(this.restbtn_Click);
             // 
             // Form1
             // 

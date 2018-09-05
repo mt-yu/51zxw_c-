@@ -13,7 +13,7 @@ namespace test
             string sFileName = @"D:\同鑫\51自学网C#\test\text\test.txt";
             FileStream fs = new FileStream(sFileName, FileMode.Open, FileAccess.Read, FileShare.Read);
             byte[] buff = new byte[fs.Length];
-            byte [] bu =  buff[1024];
+            DateTime.Now.ToString();
             return;
         }
     }
