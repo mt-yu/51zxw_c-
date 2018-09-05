@@ -1,0 +1,9 @@
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\12.1 创建WinFrom程序\bin\Debug\12.1 创建WinFrom程序.exe.config
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\12.1 创建WinFrom程序\bin\Debug\12.1 创建WinFrom程序.exe
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\12.1 创建WinFrom程序\bin\Debug\12.1 创建WinFrom程序.pdb
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\12.1 创建WinFrom程序\obj\Debug\12.1 创建WinFrom程序.csprojResolveAssemblyReference.cache
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\12.1 创建WinFrom程序\obj\Debug\_12._1_创建WinFrom程序.Form1.resources
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\12.1 创建WinFrom程序\obj\Debug\_12._1_创建WinFrom程序.Properties.Resources.resources
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\12.1 创建WinFrom程序\obj\Debug\12.1 创建WinFrom程序.csproj.GenerateResource.Cache
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\12.1 创建WinFrom程序\obj\Debug\12.1 创建WinFrom程序.exe
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\12.1 创建WinFrom程序\obj\Debug\12.1 创建WinFrom程序.pdb

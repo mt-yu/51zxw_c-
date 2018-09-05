@@ -1,0 +1,6 @@
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\控制台Test\bin\Debug\控制台Test.exe.config
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\控制台Test\bin\Debug\控制台Test.exe
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\控制台Test\bin\Debug\控制台Test.pdb
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\控制台Test\obj\Debug\控制台Test.csprojResolveAssemblyReference.cache
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\控制台Test\obj\Debug\控制台Test.exe
+D:\同鑫\51自学网C#\12.1 创建WinFrom程序\控制台Test\obj\Debug\控制台Test.pdb

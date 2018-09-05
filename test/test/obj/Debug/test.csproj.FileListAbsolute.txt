@@ -1,0 +1,6 @@
+D:\同鑫\51自学网C#\test\test\bin\Debug\test.exe.config
+D:\同鑫\51自学网C#\test\test\bin\Debug\test.exe
+D:\同鑫\51自学网C#\test\test\bin\Debug\test.pdb
+D:\同鑫\51自学网C#\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\同鑫\51自学网C#\test\test\obj\Debug\test.exe
+D:\同鑫\51自学网C#\test\test\obj\Debug\test.pdb
