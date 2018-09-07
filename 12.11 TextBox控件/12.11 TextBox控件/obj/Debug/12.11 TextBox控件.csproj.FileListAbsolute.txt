@@ -1,8 +1,0 @@
-D:\同鑫\51自学网C#\12.11 TextBox控件\12.11 TextBox控件\bin\Debug\12.11 TextBox控件.exe.config
-D:\同鑫\51自学网C#\12.11 TextBox控件\12.11 TextBox控件\bin\Debug\12.11 TextBox控件.exe
-D:\同鑫\51自学网C#\12.11 TextBox控件\12.11 TextBox控件\bin\Debug\12.11 TextBox控件.pdb
-D:\同鑫\51自学网C#\12.11 TextBox控件\12.11 TextBox控件\obj\Debug\_12._11_TextBox控件.Form1.resources
-D:\同鑫\51自学网C#\12.11 TextBox控件\12.11 TextBox控件\obj\Debug\_12._11_TextBox控件.Properties.Resources.resources
-D:\同鑫\51自学网C#\12.11 TextBox控件\12.11 TextBox控件\obj\Debug\12.11 TextBox控件.csproj.GenerateResource.Cache
-D:\同鑫\51自学网C#\12.11 TextBox控件\12.11 TextBox控件\obj\Debug\12.11 TextBox控件.exe
-D:\同鑫\51自学网C#\12.11 TextBox控件\12.11 TextBox控件\obj\Debug\12.11 TextBox控件.pdb

@@ -1,6 +1,0 @@
-D:\同鑫\51自学网C#\5.8 foreach语句\5.8 foreach语句\bin\Debug\5.8 foreach语句.exe.config
-D:\同鑫\51自学网C#\5.8 foreach语句\5.8 foreach语句\obj\Debug\5.8 foreach语句.csprojResolveAssemblyReference.cache
-D:\同鑫\51自学网C#\5.8 foreach语句\5.8 foreach语句\bin\Debug\5.8 foreach语句.exe
-D:\同鑫\51自学网C#\5.8 foreach语句\5.8 foreach语句\bin\Debug\5.8 foreach语句.pdb
-D:\同鑫\51自学网C#\5.8 foreach语句\5.8 foreach语句\obj\Debug\5.8 foreach语句.exe
-D:\同鑫\51自学网C#\5.8 foreach语句\5.8 foreach语句\obj\Debug\5.8 foreach语句.pdb

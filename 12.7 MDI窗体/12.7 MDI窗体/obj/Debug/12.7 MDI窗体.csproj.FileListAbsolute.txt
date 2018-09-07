@@ -1,9 +1,0 @@
-D:\同鑫\51自学网C#\12.7 MDI窗体\12.7 MDI窗体\bin\Debug\12.7 MDI窗体.exe.config
-D:\同鑫\51自学网C#\12.7 MDI窗体\12.7 MDI窗体\bin\Debug\12.7 MDI窗体.exe
-D:\同鑫\51自学网C#\12.7 MDI窗体\12.7 MDI窗体\bin\Debug\12.7 MDI窗体.pdb
-D:\同鑫\51自学网C#\12.7 MDI窗体\12.7 MDI窗体\obj\Debug\12.7 MDI窗体.csprojResolveAssemblyReference.cache
-D:\同鑫\51自学网C#\12.7 MDI窗体\12.7 MDI窗体\obj\Debug\_12._7_MDI窗体.MainForm.resources
-D:\同鑫\51自学网C#\12.7 MDI窗体\12.7 MDI窗体\obj\Debug\_12._7_MDI窗体.Properties.Resources.resources
-D:\同鑫\51自学网C#\12.7 MDI窗体\12.7 MDI窗体\obj\Debug\12.7 MDI窗体.csproj.GenerateResource.Cache
-D:\同鑫\51自学网C#\12.7 MDI窗体\12.7 MDI窗体\obj\Debug\12.7 MDI窗体.exe
-D:\同鑫\51自学网C#\12.7 MDI窗体\12.7 MDI窗体\obj\Debug\12.7 MDI窗体.pdb
