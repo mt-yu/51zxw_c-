@@ -11,31 +11,36 @@ namespace _14._9_Connection连接_关闭数据库
         static void Main(string[] args)
         {
             //SQLServer数据库的连接分两种方式
-            
-            
-            /* Windows 身份验证实现登录 */          
+
+
+            #region /* Windows 身份验证实现登录 */
             //                         服务器名称               安全性设置                    数据库名称
             //string constr = @"Server = DESKTOP-8BNS2H2\SQLMT; integrated security = SSPI; Initial Catalog = DBcsharp";
+            #endregion
 
-            /*SQLServer 身份验证实现登录*/
+            #region /*SQLServer 身份验证实现登录*/
             string constr = @"Server = DESKTOP-8BNS2H2\SQLMT; user = sa; pwd = asdf123; database =  DBcsharp";
             // 创建数据库连接对象
             SqlConnection mysqlCon = new SqlConnection(constr);
-            
+            #endregion
 
-            
 
-            //关闭数据库方法1，但是不确定代码是否执行完成
+
+            #region //关闭数据库方法1，但是不确定代码是否执行完成
             //mysqlCon.Close();
+            #endregion
 
-            /*关闭数据库方法2，通过using 语句实现数据库的关闭， 执行完该快自动关闭数据库 */
+
+            #region/*关闭数据库方法2，通过using 语句实现数据库的关闭， 执行完该快自动关闭数据库 */
             //using (mysqlCon)
             //{
             //    mysqlCon.Open();
-                
-            //}
 
-            /* 关闭数据库方法3, 通过try catch finally 来实现 */
+            //}
+            #endregion
+
+
+            #region/* 关闭数据库方法3, 通过try catch finally 来实现 */
             //try
             //{
             //    mysqlCon.Open();
@@ -50,8 +55,10 @@ namespace _14._9_Connection连接_关闭数据库
             //{
             //    mysqlCon.Close();
             //}
-            
-            /*关闭数据库方法4 usig 与 try catch finally 结合使用*/
+            #endregion
+
+
+            #region /*关闭数据库方法4 usig 与 try catch finally 结合使用*/
             try
             {
                 using (mysqlCon)
@@ -70,7 +77,7 @@ namespace _14._9_Connection连接_关闭数据库
             {
                 mysqlCon.Close();
             }
-
+            #endregion
 
             Console.ReadKey();
 
