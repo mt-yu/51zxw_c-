@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.8 DataGridView当前行显示不同颜色", "15.8 DataGridView当前行显示不同颜色\15.8 DataGridView当前行显示不同颜色.csproj", "{B24CCBBE-9D3A-4791-A1EE-377EE0E6B0C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B24CCBBE-9D3A-4791-A1EE-377EE0E6B0C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24CCBBE-9D3A-4791-A1EE-377EE0E6B0C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24CCBBE-9D3A-4791-A1EE-377EE0E6B0C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24CCBBE-9D3A-4791-A1EE-377EE0E6B0C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
